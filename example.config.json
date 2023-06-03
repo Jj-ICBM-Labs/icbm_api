@@ -1,0 +1,5 @@
+{
+    "algorithm": "algorithm",
+    "DB_URL": "mongodbURL",
+    "secret": "secret_key"
+}
